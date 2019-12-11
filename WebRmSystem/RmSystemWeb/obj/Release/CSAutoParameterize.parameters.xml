@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="local-Web.config Connection String" description="local Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=.;Initial Catalog=RMS;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\source\\repos\\RmSystemWeb\\RmSystemWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='local']/@connectionString" />
+  </parameter>
+  <parameter name="remoto-Web.config Connection String" description="remoto Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=rmsystemserver.database.windows.net;Initial Catalog=RMS;User ID=wadaadmin;Password=Y#4589pss;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\source\\repos\\RmSystemWeb\\RmSystemWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='remoto']/@connectionString" />
+  </parameter>
+</parameters>

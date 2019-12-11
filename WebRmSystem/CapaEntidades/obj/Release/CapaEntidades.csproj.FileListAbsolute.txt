@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\RmSystemWeb\CapaEntidades\bin\Release\CapaEntidades.dll
+C:\Users\User\source\repos\RmSystemWeb\CapaEntidades\bin\Release\CapaEntidades.pdb
+C:\Users\User\source\repos\RmSystemWeb\CapaEntidades\obj\Release\CapaEntidades.dll
+C:\Users\User\source\repos\RmSystemWeb\CapaEntidades\obj\Release\CapaEntidades.pdb
+C:\Users\User\source\repos\rmsystemweb\CapaEntidades\obj\Release\CapaEntidades.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\bin\Release\CapaAccesoDatos.dll
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\bin\Release\CapaAccesoDatos.pdb
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\bin\Release\CapaEntidades.dll
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\bin\Release\CapaEntidades.pdb
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\obj\Release\CapaAccesoDatos.dll
+C:\Users\User\source\repos\RmSystemWeb\CapaAccesoDatos\obj\Release\CapaAccesoDatos.pdb
